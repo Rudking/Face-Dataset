@@ -69,3 +69,7 @@ vs.stop()
 
 
 
+# output command : python3 file_name.py --cascade "path to haarcascade.xml file" --output "path to output folder to store image dataset"
+
+
+
